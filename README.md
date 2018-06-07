@@ -23,6 +23,11 @@
   - 役割：プログラマー（サーバサイド）
   - 技術
     - Java8, Spring Boot, JUnit5, Mockito, Lombok, PostgreSQL, Flyway, AWS, Git
+    
+## English Skill
+- documentやIssueの簡単な読み書きくらいなら可能
+  - https://github.com/DanielaSfregola/twitter4s/pull/206
+  - https://github.com/circe/circe/issues/878
      
 ## OSS Contribution
 - [twitter4s](https://github.com/DanielaSfregola/twitter4s)
