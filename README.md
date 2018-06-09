@@ -33,6 +33,9 @@
   - 実際に触れた技術
     - Java8, Spring Boot, JUnit5, Mockito, Lombok, PostgreSQL, Flyway, AWS S3, Git
 ### [株式会社GEクリエイティブ(2015/4〜2016/7)](https://ge-creative.co.jp/)
+- **インターン生や職業訓練生の教育/指導**
+  - 時期：不定期
+  - 技術：Java8未満、JavaScript, HTML, CSS, MySQL
 - **空調整備会社向け業務システム**
   - 時期：2016/5〜2016/7
   - 役割：デバッグ/テスト/仕様書作成
