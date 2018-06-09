@@ -13,10 +13,10 @@
 - **機械学習用データ作成ツール**
   - 時期：2017/6〜現在
   - 役割：プログラマー
-  - 技術
-    - Scala, Scala.js, Vue.js, JavaScript, CSS, HTML5, [circe](https://github.com/circe), [Semantic UI](https://github.com/Semantic-Org/Semantic-UI), [aws-sdk-js](https://github.com/aws/aws-sdk-js), Git
+  - 実際に触れた技術
+    - Scala, Scala.js, Vue.js, PixiJS, vis.js, JavaScript, CSS, HTML5, [circe](https://github.com/circe), [Semantic UI](https://github.com/Semantic-Org/Semantic-UI), [aws-sdk-js](https://github.com/aws/aws-sdk-js), Git
     - AWS
-      - S3, Cognito, DynamoDB, CloudFront, API Gateway, Lambda, CloudWatch, Batch, Elasticsearch, Data Pipeline, SNS
+      - S3, Cognito, DynamoDB, CloudFront, API Gateway, Lambda, CloudWatch, Batch, Elasticsearch, SNS
   - やったこと（一部抜粋）
     - プロジェクトで使用していたJSONライブラリをuPickleからcirceに全面移行させた。circeの調査、検証、実装、テストまで全て。
     - 近似色塗りつぶし機能の実装及び、それに伴う各種アルゴリズムの調査・検証（画像処理）。
@@ -29,12 +29,12 @@
       
 - **セミナーイベント管理システム**
   - 時期：2017/12〜2018/5
-  - 役割：プログラマー（サーバサイド）
-  - 技術
-    - Java8, Spring Boot, JUnit5, Mockito, Lombok, PostgreSQL, Flyway, AWS, Git
+  - 役割：プログラマー（バックエンド）
+  - 実際に触れた技術
+    - Java8, Spring Boot, JUnit5, Mockito, Lombok, PostgreSQL, Flyway, AWS S3, Git
     
 ## English Skill
-- documentやIssueの簡単な読み書きくらいなら可能
+- DocumentやIssueの簡単な読み書きくらいであれば可能
   - https://github.com/DanielaSfregola/twitter4s/pull/206
   - https://github.com/circe/circe/issues/878
      
