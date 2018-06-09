@@ -12,7 +12,7 @@
 ### [デンキヤギ株式会社（2016/10〜現在）](https://www.denkiyagi.jp)
 - **機械学習用データ作成ツール**
   - 時期：2017/6〜現在
-  - 役割：プログラマー
+  - 役割：プログラマー(フロントエンド&バックエンド）。機能単位の設計・調整・提案・実装・テスト・レビュー
   - 実際に触れた技術
     - Scala, Scala.js, Vue.js, PixiJS, vis.js, JavaScript, CSS, HTML5, [circe](https://github.com/circe), [Semantic UI](https://github.com/Semantic-Org/Semantic-UI), [aws-sdk-js](https://github.com/aws/aws-sdk-js), Git
     - AWS
