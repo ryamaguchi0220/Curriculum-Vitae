@@ -11,6 +11,7 @@
 |Twitter|[@y_ryu0220](http://twitter.com/y_ryu0220)|
 
 ## Working Experience
+### [有限会社 来栖川電算（2019/01〜）](https://www.kurusugawa.jp/)
 ### [デンキヤギ株式会社（2016/10〜2018/11）](https://www.denkiyagi.jp)
 - **機械学習用データ作成ツール**
   - 時期：2017/6〜2018/11
