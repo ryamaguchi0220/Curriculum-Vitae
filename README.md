@@ -3,7 +3,7 @@
 |key|value|
 |---|-----|
 |Name|山口 龍|
-|Age|24|
+|Age|25|
 |Address|愛知県名古屋市|
 |Education|情報系専門学校(3年制)|
 |Helth|[吃音症](https://ja.wikipedia.org/wiki/%E5%90%83%E9%9F%B3%E7%97%87)
@@ -12,6 +12,8 @@
 
 ## Working Experience
 ### [有限会社 来栖川電算（2019/01〜）](https://www.kurusugawa.jp/)
+ - 日本語から英語への簡単な翻訳
+ - 三角関数やベクトル、行列などの高等数学を用いたグラフィカルなプログラミング
 ### [デンキヤギ株式会社（2016/10〜2018/11）](https://www.denkiyagi.jp)
 - **機械学習用データ作成ツール**
   - 時期：2017/6〜2018/11
