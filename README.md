@@ -66,12 +66,12 @@
   - 技術：Java8未満, C, JavaScript, CSS, HTML
     
 ## English Skill
-- DocumentやIssue/PRの簡単な読み書きくらいであれば可能
-  - https://github.com/DanielaSfregola/twitter4s/pull/206
-  - https://github.com/circe/circe/issues/878
-  - https://github.com/fomantic/Fomantic-UI/issues/757]
-  - https://github.com/fomantic/Fomantic-UI/pull/759
-     
+DocumentやIssue/PRの簡単な読み書きくらいであれば可能
+- https://github.com/fomantic/Fomantic-UI/issues/757
+- https://github.com/fomantic/Fomantic-UI/pull/759
+- https://github.com/circe/circe/issues/878
+- https://github.com/DanielaSfregola/twitter4s/pull/206
+ 
 ## OSS Contribution
 - [twitter4s](https://github.com/DanielaSfregola/twitter4s)
 - [Fomantic-UI](https://github.com/fomantic/Fomantic-UI)
