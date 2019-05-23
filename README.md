@@ -66,13 +66,15 @@
   - 技術：Java8未満, C, JavaScript, CSS, HTML
     
 ## English Skill
-- DocumentやIssueの簡単な読み書きくらいであれば可能
+- DocumentやIssue/PRの簡単な読み書きくらいであれば可能
   - https://github.com/DanielaSfregola/twitter4s/pull/206
   - https://github.com/circe/circe/issues/878
+  - https://github.com/fomantic/Fomantic-UI/issues/757]
+  - https://github.com/fomantic/Fomantic-UI/pull/759
      
 ## OSS Contribution
 - [twitter4s](https://github.com/DanielaSfregola/twitter4s)
-
+- [Fomantic-UI](https://github.com/fomantic/Fomantic-UI)
 ## Qualifications
 - 基本情報技術者試験
 - 普通自動車第一種運転免許
