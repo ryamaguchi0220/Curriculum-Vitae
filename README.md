@@ -1,4 +1,3 @@
-# Contents
 ## 基本情報
 |key|value|
 |---|-----|
@@ -70,7 +69,6 @@
 - **社内研修**
   - 時期：2015/4〜2015/6
   - 技術：Java8未満, C, JavaScript, CSS, HTML
-    
  
 ## OSS活動
 
@@ -108,15 +106,15 @@
 - [twitter4s](https://github.com/DanielaSfregola/twitter4s)
   - PR
     - https://github.com/DanielaSfregola/twitter4s/pull/206
-- [hub]
+- [hub](https://github.com/github/hub)
   - Issue
     - https://github.com/github/hub/issues/2347
-- [circe]
+- [circe](https://github.com/circe/circe)
   - Issue
     - https://github.com/circe/circe/issues/878
     
 ## 英語
-流暢ではありませんが、OSS活動を最低限行えるレベルの能力はあります。
+流暢ではありませんが、OSS活動を行えるレベルの能力はあります。
 
 ## 資格
 - 基本情報技術者試験
