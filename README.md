@@ -1,5 +1,5 @@
 # Contents
-## Basic Information
+## 基本情報
 |key|value|
 |---|-----|
 |Name|山口 龍|
@@ -10,7 +10,7 @@
 |Mail|maguchi579@gmail.com|
 |Twitter|[@y_ryu0220](http://twitter.com/y_ryu0220)|
 
-## Working Experience
+## 職務経歴
 ### [有限会社 来栖川電算（2019/01〜現在）](https://www.kurusugawa.jp/)
 - **機械学習用データ作成Webアプリ続き**
   - 時期：2019/1〜現在
@@ -71,16 +71,53 @@
   - 時期：2015/4〜2015/6
   - 技術：Java8未満, C, JavaScript, CSS, HTML
     
-## English Skill
-DocumentやIssue/PRの簡単な読み書きくらいであれば可能
-- https://github.com/fomantic/Fomantic-UI/issues/757
-- https://github.com/fomantic/Fomantic-UI/pull/759
-- https://github.com/circe/circe/issues/878
-- https://github.com/DanielaSfregola/twitter4s/pull/206
  
-## OSS Contribution
-- [twitter4s](https://github.com/DanielaSfregola/twitter4s)
+## OSS活動
+
+複数のOSSプロジェクトにIssue/PRといった形で貢献をしています。
+
+- [Vis.js](https://github.com/visjs/vis-timeline)
+  - Issue
+    - https://github.com/visjs/vis-timeline/issues/84
+    - https://github.com/visjs/vis-timeline/issues/95
+    - https://github.com/visjs/vis-timeline/issues/105
+    - https://github.com/visjs/vis-timeline/issues/127
+    - https://github.com/visjs/vis-timeline/issues/131
+    - https://github.com/visjs/vis-timeline/issues/187
+  - PR
+    - https://github.com/visjs/vis-timeline/pull/86
+    - https://github.com/visjs/vis-timeline/pull/96
+    - https://github.com/visjs/vis-timeline/pull/117
+    - https://github.com/visjs/vis-timeline/pull/128
+    - https://github.com/visjs/vis-timeline/pull/132
+    - https://github.com/visjs/vis-timeline/pull/148
+    - https://github.com/visjs/vis-timeline/pull/188
 - [Fomantic-UI](https://github.com/fomantic/Fomantic-UI)
-## Qualifications
+  - Issue
+    - https://github.com/fomantic/Fomantic-UI/issues/757
+    - https://github.com/fomantic/Fomantic-UI/issues/953
+  - PR
+    - https://github.com/fomantic/Fomantic-UI/pull/759
+    - https://github.com/fomantic/Fomantic-UI/pull/954
+    - https://github.com/fomantic/Fomantic-UI-Docs/pull/134  
+- [Release-Drafter](https://github.com/release-drafter/release-drafter)
+  - Issue
+    - https://github.com/toolmantim/release-drafter/issues/323
+  - PR
+    - https://github.com/toolmantim/release-drafter/pull/324
+- [twitter4s](https://github.com/DanielaSfregola/twitter4s)
+  - PR
+    - https://github.com/DanielaSfregola/twitter4s/pull/206
+- [hub]
+  - Issue
+    - https://github.com/github/hub/issues/2347
+- [circe]
+  - Issue
+    - https://github.com/circe/circe/issues/878
+    
+## 英語
+流暢ではありませんが、OSS活動を最低限行えるレベルの能力はあります。
+
+## 資格
 - 基本情報技術者試験
 - 普通自動車第一種運転免許
