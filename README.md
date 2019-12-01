@@ -74,44 +74,14 @@
 
 複数のOSSプロジェクトにIssue/PRといった形で貢献をしています。
 
-- [Vis.js](https://github.com/visjs/vis-timeline)
-  - Issue
-    - https://github.com/visjs/vis-timeline/issues/84
-    - https://github.com/visjs/vis-timeline/issues/95
-    - https://github.com/visjs/vis-timeline/issues/105
-    - https://github.com/visjs/vis-timeline/issues/127
-    - https://github.com/visjs/vis-timeline/issues/131
-    - https://github.com/visjs/vis-timeline/issues/187
-  - PR
-    - https://github.com/visjs/vis-timeline/pull/86
-    - https://github.com/visjs/vis-timeline/pull/96
-    - https://github.com/visjs/vis-timeline/pull/117
-    - https://github.com/visjs/vis-timeline/pull/128
-    - https://github.com/visjs/vis-timeline/pull/132
-    - https://github.com/visjs/vis-timeline/pull/148
-    - https://github.com/visjs/vis-timeline/pull/188
-- [Fomantic-UI](https://github.com/fomantic/Fomantic-UI)
-  - Issue
-    - https://github.com/fomantic/Fomantic-UI/issues/757
-    - https://github.com/fomantic/Fomantic-UI/issues/953
-  - PR
-    - https://github.com/fomantic/Fomantic-UI/pull/759
-    - https://github.com/fomantic/Fomantic-UI/pull/954
-    - https://github.com/fomantic/Fomantic-UI-Docs/pull/134  
-- [Release-Drafter](https://github.com/release-drafter/release-drafter)
-  - Issue
-    - https://github.com/toolmantim/release-drafter/issues/323
-  - PR
-    - https://github.com/toolmantim/release-drafter/pull/324
-- [twitter4s](https://github.com/DanielaSfregola/twitter4s)
-  - PR
-    - https://github.com/DanielaSfregola/twitter4s/pull/206
-- [hub](https://github.com/github/hub)
-  - Issue
-    - https://github.com/github/hub/issues/2347
-- [circe](https://github.com/circe/circe)
-  - Issue
-    - https://github.com/circe/circe/issues/878
+||Issue|PR|
+|---|-----|-----|
+|[Vis.js](https://github.com/visjs/vis-timeline)|<ul><li>https://github.com/visjs/vis-timeline/issues/84</li><li>https://github.com/visjs/vis-timeline/issues/95</li><li>https://github.com/visjs/vis-timeline/issues/105</li><li>https://github.com/visjs/vis-timeline/issues/127</li><li>https://github.com/visjs/vis-timeline/issues/131</li><li>https://github.com/visjs/vis-timeline/issues/187</li></ul>|<ul><li>https://github.com/visjs/vis-timeline/pull/86</li><li>https://github.com/visjs/vis-timeline/pull/96</li><li>https://github.com/visjs/vis-timeline/pull/117</li><li>https://github.com/visjs/vis-timeline/pull/128</li><li>https://github.com/visjs/vis-timeline/pull/132</li><li> https://github.com/visjs/vis-timeline/pull/148</li><li>https://github.com/visjs/vis-timeline/pull/188</li><ul>|
+  |[Fomantic-UI](https://github.com/fomantic/Fomantic-UI)|<ul><li>https://github.com/fomantic/Fomantic-UI/issues/757</li><li>https://github.com/fomantic/Fomantic-UI/issues/953</li></ul>|<ul><li>https://github.com/fomantic/Fomantic-UI/pull/759</li><li></li>https://github.com/fomantic/Fomantic-UI/pull/954<li>https://github.com/fomantic/Fomantic-UI-Docs/pull/134  </li></ul>|
+|[Release-Drafter](https://github.com/release-drafter/release-drafter)|<ul><li>https://github.com/toolmantim/release-drafter/issues/323</li></ul>|<ul><li>https://github.com/toolmantim/release-drafter/pull/324</li></ul>|
+|[twitter4s](https://github.com/DanielaSfregola/twitter4s)||<ul><li>https://github.com/DanielaSfregola/twitter4s/pull/206</li></ul>|
+|[hub](https://github.com/github/hub)|<ul><li>https://github.com/github/hub/issues/2347</li></ul>||
+|[circe](https://github.com/circe/circe)|<ul><li>https://github.com/circe/circe/issues/878</li></ul>|</ul>||
     
 ## 英語
 流暢ではありませんが、OSS活動を行えるレベルの能力はあります。
