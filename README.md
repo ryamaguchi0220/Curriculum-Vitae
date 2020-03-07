@@ -1,12 +1,12 @@
 ## 基本情報
 |key|value|
 |---|-----|
+|Twitter|[@y_ryu0220](http://twitter.com/y_ryu0220)|
 |Age|26|
 |Address|愛知県名古屋市|
 |Education|情報系専門学校(3年制)|
 |Health|[吃音症](https://ja.wikipedia.org/wiki/%E5%90%83%E9%9F%B3%E7%97%87)
 |Mail|maguchi579@gmail.com|
-|Twitter|[@y_ryu0220](http://twitter.com/y_ryu0220)|
 
 ## 職務経歴
 ### [有限会社 来栖川電算（2019/01〜現在）](https://www.kurusugawa.jp/)
