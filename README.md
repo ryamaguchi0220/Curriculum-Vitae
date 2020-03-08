@@ -80,11 +80,12 @@
 |[Vis.js](https://github.com/visjs/vis-timeline)|<ul><li>https://github.com/visjs/vis-timeline/issues/84</li><li>https://github.com/visjs/vis-timeline/issues/95</li><li>https://github.com/visjs/vis-timeline/issues/105</li><li>https://github.com/visjs/vis-timeline/issues/127</li><li>https://github.com/visjs/vis-timeline/issues/131</li><li>https://github.com/visjs/vis-timeline/issues/187</li></ul>|<ul><li>https://github.com/visjs/vis-timeline/pull/86</li><li>https://github.com/visjs/vis-timeline/pull/96</li><li>https://github.com/visjs/vis-timeline/pull/117</li><li>https://github.com/visjs/vis-timeline/pull/128</li><li>https://github.com/visjs/vis-timeline/pull/132</li><li> https://github.com/visjs/vis-timeline/pull/148</li><li>https://github.com/visjs/vis-timeline/pull/188</li><ul>|
   |[Fomantic-UI](https://github.com/fomantic/Fomantic-UI)|<ul><li>https://github.com/fomantic/Fomantic-UI/issues/757</li><li>https://github.com/fomantic/Fomantic-UI/issues/953</li></ul>|<ul><li>https://github.com/fomantic/Fomantic-UI/pull/759</li><li>https://github.com/fomantic/Fomantic-UI/pull/954</li><li>https://github.com/fomantic/Fomantic-UI-Docs/pull/134 </li></ul>|
 |[Release-Drafter](https://github.com/release-drafter/release-drafter)|<ul><li>https://github.com/toolmantim/release-drafter/issues/323</li></ul>|<ul><li>https://github.com/toolmantim/release-drafter/pull/324</li></ul>|
+|[おめシスのHP](https://github.com/omegasisters/homepage)|<ul><li></li></ul>|<ul><li>https://github.com/omegasisters/homepage/pull/324</li><li>https://github.com/omegasisters/homepage/pull/337/files</li><li>https://github.com/omegasisters/homepage/pull/350</li><li>https://github.com/omegasisters/homepage/issues/355</li><li>https://github.com/omegasisters/homepage/pull/367</li><li>https://github.com/omegasisters/homepage/pull/370</li><li><li>https://github.com/omegasisters/homepage/pull/373</li></ul>|
 |[twitter4s](https://github.com/DanielaSfregola/twitter4s)||<ul><li>https://github.com/DanielaSfregola/twitter4s/pull/206</li></ul>|
 |[hub](https://github.com/github/hub)|<ul><li>https://github.com/github/hub/issues/2347</li></ul>||
 |[circe](https://github.com/circe/circe)|<ul><li>https://github.com/circe/circe/issues/878</li></ul>|</ul>||
 
-## 苦手なこと。パフォーマンスを発揮できる環境/できない環境。
+## パフォーマンスを発揮できる環境/できない環境。
 
 * 数学の知識が乏しいです。従って、統計や幾何学などの数学を扱う開発ではパフォーマンスを発揮できない可能性があります。
 * 形式主義/非合理的な組織は苦手です。反面、進捗さえだせば「どこで(場所)、どのように(方法)、どのくらい(時間)」働いても構わない。といったような、合理的/進捗主義の組織が適しています。
