@@ -1,7 +1,6 @@
 ## 基本情報
 |key|value|
 |---|-----|
-|Twitter|[@y_ryu0220](http://twitter.com/y_ryu0220)|
 |Age|26|
 |Address|愛知県名古屋市|
 |Education|情報系専門学校(3年制)|
