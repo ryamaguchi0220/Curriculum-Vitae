@@ -26,15 +26,14 @@
     - AWS
       - S3, Cognito, DynamoDB, CloudFront, API Gateway, Lambda, CloudWatch, Batch, Elasticsearch, SNS   
   - 補足:フルリモート/フルフレックス/時短(月120h) という環境でやっています。
- 
 ### [デンキヤギ株式会社（2016/10〜2018/11）](https://www.denkiyagi.jp)
 - **教師データ作成Webアプリ [AnnoFab](https://annofab.com/) の開発**
-  - 時期：2017/6〜2018/11
-  - その他は主に上述した通り
+  - 時期: 2017/6〜2018/11
+  - 詳細は上述した来栖川電算内の項目と同じです。
 - **セミナーイベント管理Webシステム**
-  - 時期：2017/12〜2018/5
-  - 担当：Webバックエンド開発
-  - 技術スタック:Java8, Spring Boot, JUnit5, Mockito, Lombok, PostgreSQL, Flyway, AWS S3, Git
+  - 時期: 2017/12〜2018/5
+  - 担当: Webバックエンド開発
+  - 技術スタック: Java8, Spring Boot, JUnit5, Mockito, Lombok, PostgreSQL, Flyway, AWS S3, Git
 ### [株式会社GEクリエイティブ(2015/4〜2016/7)](https://ge-creative.co.jp/)
 - **インターン生や職業訓練生の教育**
   - 時期: 不定期
@@ -69,14 +68,14 @@
 
 ||Issue|PR|
 |---|-----|-----|
-|[Vis.js](https://github.com/visjs/vis-timeline)|<ul><li>https://github.com/visjs/vis-timeline/issues/84</li><li>https://github.com/visjs/vis-timeline/issues/95</li><li>https://github.com/visjs/vis-timeline/issues/105</li><li>https://github.com/visjs/vis-timeline/issues/127</li><li>https://github.com/visjs/vis-timeline/issues/131</li><li>https://github.com/visjs/vis-timeline/issues/187</li></ul>|<ul><li>https://github.com/visjs/vis-timeline/pull/86</li><li>https://github.com/visjs/vis-timeline/pull/96</li><li>https://github.com/visjs/vis-timeline/pull/117</li><li>https://github.com/visjs/vis-timeline/pull/128</li><li>https://github.com/visjs/vis-timeline/pull/132</li><li> https://github.com/visjs/vis-timeline/pull/148</li><li>https://github.com/visjs/vis-timeline/pull/188</li><li>https://github.com/visjs/vis-timeline/pull/486</li><ul>|
-  |[Fomantic-UI](https://github.com/fomantic/Fomantic-UI)|<ul><li>https://github.com/fomantic/Fomantic-UI/issues/757</li><li>https://github.com/fomantic/Fomantic-UI/issues/953</li></ul>|<ul><li>https://github.com/fomantic/Fomantic-UI/pull/759</li><li>https://github.com/fomantic/Fomantic-UI/pull/954</li><li>https://github.com/fomantic/Fomantic-UI-Docs/pull/134</li><li>https://github.com/fomantic/Fomantic-UI/pull/1496</li></ul>|
 |[Release-Drafter](https://github.com/release-drafter/release-drafter)|<ul><li>https://github.com/toolmantim/release-drafter/issues/323</li></ul>|<ul><li>https://github.com/toolmantim/release-drafter/pull/324</li></ul>|
 |[GitHub + Slack Integration](https://github.com/integrations/slack)|<ul></ul>|<ul><li>https://github.com/integrations/slack/pull/1046</li></ul>|
 |[おめシスのHP](https://github.com/omegasisters/homepage)||<ul><li>https://github.com/omegasisters/homepage/pull/324</li><li>https://github.com/omegasisters/homepage/pull/337</li><li>https://github.com/omegasisters/homepage/pull/350</li><li>https://github.com/omegasisters/homepage/pull/357</li><li>https://github.com/omegasisters/homepage/pull/367</li><li>https://github.com/omegasisters/homepage/pull/370</li><li>https://github.com/omegasisters/homepage/pull/373</li></ul>|
+|[Fomantic-UI](https://github.com/fomantic/Fomantic-UI)|<ul><li>https://github.com/fomantic/Fomantic-UI/issues/757</li><li>https://github.com/fomantic/Fomantic-UI/issues/953</li></ul>|<ul><li>https://github.com/fomantic/Fomantic-UI/pull/759</li><li>https://github.com/fomantic/Fomantic-UI/pull/954</li><li>https://github.com/fomantic/Fomantic-UI-Docs/pull/134</li><li>https://github.com/fomantic/Fomantic-UI/pull/1496</li></ul>|
+|[Vis.js](https://github.com/visjs/vis-timeline)|<ul><li>https://github.com/visjs/vis-timeline/issues/84</li><li>https://github.com/visjs/vis-timeline/issues/95</li><li>https://github.com/visjs/vis-timeline/issues/105</li><li>https://github.com/visjs/vis-timeline/issues/127</li><li>https://github.com/visjs/vis-timeline/issues/131</li><li>https://github.com/visjs/vis-timeline/issues/187</li></ul>|<ul><li>https://github.com/visjs/vis-timeline/pull/86</li><li>https://github.com/visjs/vis-timeline/pull/96</li><li>https://github.com/visjs/vis-timeline/pull/117</li><li>https://github.com/visjs/vis-timeline/pull/128</li><li>https://github.com/visjs/vis-timeline/pull/132</li><li> https://github.com/visjs/vis-timeline/pull/148</li><li>https://github.com/visjs/vis-timeline/pull/188</li><li>https://github.com/visjs/vis-timeline/pull/486</li><ul>|
 |[twitter4s](https://github.com/DanielaSfregola/twitter4s)||<ul><li>https://github.com/DanielaSfregola/twitter4s/pull/206</li></ul>|
-|[hub](https://github.com/github/hub)|<ul><li>https://github.com/github/hub/issues/2347</li></ul>||
 |[circe](https://github.com/circe/circe)|<ul><li>https://github.com/circe/circe/issues/878</li></ul>|</ul>||  
+|[hub](https://github.com/github/hub)|<ul><li>https://github.com/github/hub/issues/2347</li></ul>||
 
 ## パフォーマンスを発揮できる環境/できない環境。
 
@@ -85,7 +84,7 @@
 * 言語障害(吃音症)があります。従って、口頭コミュニケーションがメインの環境、または口頭コミュニケーションを強制させられるような環境ではパフォーマンスを発揮できません。テキストコミュニケーションがメインの環境が適しています。
 
 ## 英語
-流暢ではありませんが、OSS活動を行えるレベルの能力はあります。
+OSS活動を行えるレベルの読み書きはできる程度です。
 
 ## 資格
 - 基本情報技術者試験
