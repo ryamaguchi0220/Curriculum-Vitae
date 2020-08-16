@@ -30,10 +30,10 @@
 ### [デンキヤギ株式会社（2016/10〜2018/11）](https://www.denkiyagi.jp)
 - **教師データ作成Webアプリ [AnnoFab](https://annofab.com/) の開発**
   - 時期：2017/6〜2018/11
-  - 役割/技術スタック等は上記項目と同じ
-- **セミナーイベント管理システム**
+  - その他は主に上述した通り
+- **セミナーイベント管理Webシステム**
   - 時期：2017/12〜2018/5
-  - 役割：Webバックエンド開発
+  - 担当：Webバックエンド開発
   - 技術スタック:Java8, Spring Boot, JUnit5, Mockito, Lombok, PostgreSQL, Flyway, AWS S3, Git
 ### [株式会社GEクリエイティブ(2015/4〜2016/7)](https://ge-creative.co.jp/)
 - **インターン生や職業訓練生の教育**
