@@ -37,27 +37,27 @@
   - 技術スタック:Java8, Spring Boot, JUnit5, Mockito, Lombok, PostgreSQL, Flyway, AWS S3, Git
 ### [株式会社GEクリエイティブ(2015/4〜2016/7)](https://ge-creative.co.jp/)
 - **インターン生や職業訓練生の教育**
-  - 時期：不定期
-  - 技術スタック：Java8未満、JavaScript, HTML, CSS, MySQL
+  - 時期: 不定期
+  - 技術スタック: Java8未満、JavaScript, HTML, CSS, MySQL
 - **空調整備会社向け業務システム**
-  - 時期：2016/5〜2016/7
-  - 役割：デバッグ/テスト/仕様書作成
-  - 技術スタック：VB.NET, OracleDB, [JP1](http://www.hitachi.co.jp/Prod/comp/soft1/jp1/), SVN 
+  - 時期: 2016/5〜2016/7
+  - 担当: デバッグ/テスト/仕様書作成
+  - 技術スタック: VB.NET, OracleDB, [JP1](http://www.hitachi.co.jp/Prod/comp/soft1/jp1/), SVN 
 - **旅行会社向け業務Webシステム** 
-  - 時期：2016/3〜2016/5
-  - 役割：画面プロトタイプ/モックアップ作成
-  - 技術スタック：[Pencil](http://pencil.evolus.vn/)
+  - 時期: 2016/3〜2016/5
+  - 担当: 画面プロトタイプ/モックアップ作成
+  - 技術スタック: [Pencil](http://pencil.evolus.vn/)
 - **半導体関連物流管理システム**
-  - 時期：2015/12〜2016/3
-  - 内容：既存システム分析/基本設計/詳細設計/実装/テスト
-  - 技術スタック：PL/SQL, bash, Oracle DB, [JP1](http://www.hitachi.co.jp/Prod/comp/soft1/jp1/), SVN
+  - 時期: 2015/12〜2016/3
+  - 担当: 既存システム分析/基本設計/詳細設計/実装/テスト
+  - 技術スタック: PL/SQL, bash, Oracle DB, [JP1](http://www.hitachi.co.jp/Prod/comp/soft1/jp1/), SVN
 - **病院予約受付Webシステム**
   - 時期: 2015/10〜2015/12
-  - 内容: 基本設計/詳細設計/テスト/顧客向け環境構築マニュアル作成
+  - 担当: 基本設計/詳細設計/テスト/顧客向け環境構築マニュアル作成
   - 技術スタック: Java8未満, SAStruts, Apache, Tomcat, JavaScript, JQuery, CSS, HTML, SVN
 - **自社コンテンツ用Webシステム**
   - 時期: 2015/6〜2015/10
-  - 内容: 既存システム分析/基本設計/実装/テスト
+  - 担当: 既存システム分析/基本設計/実装/テスト
   - 技術スタック: VBA, Java8未満, SAStruts, Tomcat, JavaScript, JQuery, CSS, HTML, PostgreSQL, SVN
 - **社内研修**
   - 時期: 2015/4〜2015/6
