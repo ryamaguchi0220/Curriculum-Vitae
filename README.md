@@ -13,20 +13,21 @@
 ### [有限会社 来栖川電算（2019/01〜現在）](https://www.kurusugawa.jp/)
 - **教師データ作成Webアプリ [AnnoFab](https://annofab.com/) の開発**
   - 時期：2019/1〜現在
-  - 一般的なフロントエンド、バックエンド、インフラ担当などではなく、プロダクトをより良くするためのエンジニアリングを行ってきました。
+  - プロダクトをより良くするため、わりとなんでもやってきました (アーキテクト寄り)。
     - 社内ユーザーからの要望ヒアリング
     - 要件定義
     - 設計
-    - フロントエンド、バックエンド、インフラ(AWS)などといった一般的な領域をを問わない、機能/要望単位での一貫した開発/テスト
-    - 日本語から英語への簡単な翻訳（アプリのi18n対応)
+    - フロントエンド、バックエンド、インフラ(AWS)全て含めた、機能/要望単位での開発/テスト
+    - プロダクトで使用しているOSSへの積極的なコントリビューション (機能追加や不具合修正など)
     - ユーザー対応(ヘルプデスク)
-    - アプリのリリースや、属人性を防ぐためのリリース手順ドキュメンテーション及びスクリプトによる自動化
-    - プロジェクトで使用しているOSSへの機能追加やバグ修正
+    - アプリのリリース
+    - リリース作業などの自動化(スクリプト化)や、属人性を防ぐためのドキュメンテーション
+    - メンバーの生産性を向上させるような、開発プロセスの改善やOSSの導入
     - メンバーの成果物レビュー
   - 技術スタック
     - Scala, Scala.js, Vue.js, PixiJS, vis.js, JavaScript, CSS, HTML5, [circe](https://github.com/circe), [Semantic UI](https://github.com/Semantic-Org/Semantic-UI), [aws-sdk-js](https://github.com/aws/aws-sdk-js), Git
     - AWS
-      - S3, Cognito, DynamoDB, CloudFront, API Gateway, Lambda, CloudWatch, Batch, Elasticsearch, SNS   
+      - S3, Cognito, DynamoDB, CloudFront, API Gateway, Lambda, CloudWatch, Batch, Elasticsearch  
   - 補足:フルリモート/フルフレックス/時短(月120h) という環境でやっています。
 ### [デンキヤギ株式会社（2016/10〜2018/11）](https://www.denkiyagi.jp)
 - **教師データ作成Webアプリ [AnnoFab](https://annofab.com/) の開発**
