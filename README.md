@@ -79,7 +79,7 @@
 |[circe](https://github.com/circe/circe)|<ul><li>https://github.com/circe/circe/issues/878</li></ul>|</ul>||  
 |[hub](https://github.com/github/hub)|<ul><li>https://github.com/github/hub/issues/2347</li></ul>||
 
-## 得意なこと/苦手なこと (特性)
+## 自身の特性について
 
 * Webフロントエンド、バックエンド、クラウド(AWS)など、領域に縛られず幅広くこなせます。
 * 幅広くやってきたこともあり、新しい技術の習得に得意意識があります。経験がないプログラミング言語やフレームワークを採用しているプロジェクトに参画したとしても、本来のパフォーマンスを発揮するまでに比較的時間はかからないかもしれません。
