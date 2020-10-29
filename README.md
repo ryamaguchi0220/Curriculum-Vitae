@@ -26,7 +26,7 @@
     - 問題解決の方向性が誤っていたり、意思決定が中々できずに右往左往しているチームメンバーを正しい方向に導くなど
     - チームメンバーの成果物レビュー
   - 技術スタック
-    - Scala, Scala.js, Vue.js, PixiJS, vis.js, JavaScript, CSS, HTML5, [circe](https://github.com/circe), [Semantic UI](https://github.com/Semantic-Org/Semantic-UI), [aws-sdk-js](https://github.com/aws/aws-sdk-js), Git
+    - Scala, Scala.js, Vue.js, PixiJS, vis.js, JavaScript, CSS, HTML5, circe, Semantic UI, aws-sdk-js, Git
     - AWS
       - S3, Cognito, DynamoDB, CloudFront, API Gateway, Lambda, CloudWatch, Batch, Elasticsearch  
   - 補足:フルリモート/フルフレックス/時短(月120h) という環境でやっています。
@@ -45,15 +45,15 @@
 - **空調整備会社向け業務システム**
   - 時期: 2016/5〜2016/7
   - 担当: デバッグ/テスト/仕様書作成
-  - 技術スタック: VB.NET, OracleDB, [JP1](http://www.hitachi.co.jp/Prod/comp/soft1/jp1/), SVN 
+  - 技術スタック: VB.NET, OracleDB, JP1, SVN 
 - **旅行会社向け業務Webシステム** 
   - 時期: 2016/3〜2016/5
   - 担当: 画面プロトタイプ/モックアップ作成
-  - 技術スタック: [Pencil](http://pencil.evolus.vn/)
+  - 技術スタック: Pencil
 - **半導体関連物流管理システム**
   - 時期: 2015/12〜2016/3
   - 担当: 既存システム分析/基本設計/詳細設計/実装/テスト
-  - 技術スタック: PL/SQL, bash, Oracle DB, [JP1](http://www.hitachi.co.jp/Prod/comp/soft1/jp1/), SVN
+  - 技術スタック: PL/SQL, bash, Oracle DB, JP1, SVN
 - **病院予約受付Webシステム**
   - 時期: 2015/10〜2015/12
   - 担当: 基本設計/詳細設計/テスト/顧客向け環境構築マニュアル作成
